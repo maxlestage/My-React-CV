@@ -4,8 +4,8 @@
     "static/js/0.c7031de8.chunk.js": "/My-React-CV/static/js/0.c7031de8.chunk.js",
     "static/js/0.c7031de8.chunk.js.map": "/My-React-CV/static/js/0.c7031de8.chunk.js.map",
     "main.css": "/My-React-CV/static/css/main.23ef057b.chunk.css",
-    "main.js": "/My-React-CV/static/js/main.2743d327.chunk.js",
-    "main.js.map": "/My-React-CV/static/js/main.2743d327.chunk.js.map",
+    "main.js": "/My-React-CV/static/js/main.b688b590.chunk.js",
+    "main.js.map": "/My-React-CV/static/js/main.b688b590.chunk.js.map",
     "runtime-main.js": "/My-React-CV/static/js/runtime-main.c051a645.js",
     "runtime-main.js.map": "/My-React-CV/static/js/runtime-main.c051a645.js.map",
     "static/css/3.383c0125.chunk.css": "/My-React-CV/static/css/3.383c0125.chunk.css",
@@ -22,6 +22,8 @@
     "static/css/4.a02c4048.chunk.css.map": "/My-React-CV/static/css/4.a02c4048.chunk.css.map",
     "static/css/main.23ef057b.chunk.css.map": "/My-React-CV/static/css/main.23ef057b.chunk.css.map",
     "static/js/3.eb97a5c8.chunk.js.LICENSE.txt": "/My-React-CV/static/js/3.eb97a5c8.chunk.js.LICENSE.txt",
+    "static/media/Groupomania.73d73abe.svg": "/My-React-CV/static/media/Groupomania.73d73abe.svg",
+    "static/media/Piiquante.73054d23.jpg": "/My-React-CV/static/media/Piiquante.73054d23.jpg",
     "static/media/me.5f73af2d.JPG": "/My-React-CV/static/media/me.5f73af2d.JPG"
   },
   "entrypoints": [
@@ -29,6 +31,6 @@
     "static/css/3.383c0125.chunk.css",
     "static/js/3.eb97a5c8.chunk.js",
     "static/css/main.23ef057b.chunk.css",
-    "static/js/main.2743d327.chunk.js"
+    "static/js/main.b688b590.chunk.js"
   ]
 }
