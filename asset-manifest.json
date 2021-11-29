@@ -1,30 +1,34 @@
 {
   "files": {
-    "main.css": "/My-React-CV/static/css/main.70d3a844.chunk.css",
-    "main.js": "/My-React-CV/static/js/main.0168fbb4.chunk.js",
-    "main.js.map": "/My-React-CV/static/js/main.0168fbb4.chunk.js.map",
-    "runtime-main.js": "/My-React-CV/static/js/runtime-main.66f40746.js",
-    "runtime-main.js.map": "/My-React-CV/static/js/runtime-main.66f40746.js.map",
+    "main.css": "/My-React-CV/static/css/main.a56113f5.chunk.css",
+    "main.js": "/My-React-CV/static/js/main.7da843ec.chunk.js",
+    "main.js.map": "/My-React-CV/static/js/main.7da843ec.chunk.js.map",
+    "runtime-main.js": "/My-React-CV/static/js/runtime-main.a892b747.js",
+    "runtime-main.js.map": "/My-React-CV/static/js/runtime-main.a892b747.js.map",
     "static/css/2.383c0125.chunk.css": "/My-React-CV/static/css/2.383c0125.chunk.css",
     "static/js/2.0c38b503.chunk.js": "/My-React-CV/static/js/2.0c38b503.chunk.js",
     "static/js/2.0c38b503.chunk.js.map": "/My-React-CV/static/js/2.0c38b503.chunk.js.map",
     "static/css/3.527cdca3.chunk.css": "/My-React-CV/static/css/3.527cdca3.chunk.css",
-    "static/js/3.37683c90.chunk.js": "/My-React-CV/static/js/3.37683c90.chunk.js",
-    "static/js/3.37683c90.chunk.js.map": "/My-React-CV/static/js/3.37683c90.chunk.js.map",
-    "static/js/4.2df2a3fd.chunk.js": "/My-React-CV/static/js/4.2df2a3fd.chunk.js",
-    "static/js/4.2df2a3fd.chunk.js.map": "/My-React-CV/static/js/4.2df2a3fd.chunk.js.map",
+    "static/js/3.a03c7ba2.chunk.js": "/My-React-CV/static/js/3.a03c7ba2.chunk.js",
+    "static/js/3.a03c7ba2.chunk.js.map": "/My-React-CV/static/js/3.a03c7ba2.chunk.js.map",
+    "static/css/4.d22640aa.chunk.css": "/My-React-CV/static/css/4.d22640aa.chunk.css",
+    "static/js/4.66c6c30b.chunk.js": "/My-React-CV/static/js/4.66c6c30b.chunk.js",
+    "static/js/4.66c6c30b.chunk.js.map": "/My-React-CV/static/js/4.66c6c30b.chunk.js.map",
+    "static/js/5.87ad34bd.chunk.js": "/My-React-CV/static/js/5.87ad34bd.chunk.js",
+    "static/js/5.87ad34bd.chunk.js.map": "/My-React-CV/static/js/5.87ad34bd.chunk.js.map",
     "index.html": "/My-React-CV/index.html",
     "static/css/2.383c0125.chunk.css.map": "/My-React-CV/static/css/2.383c0125.chunk.css.map",
     "static/css/3.527cdca3.chunk.css.map": "/My-React-CV/static/css/3.527cdca3.chunk.css.map",
-    "static/css/main.70d3a844.chunk.css.map": "/My-React-CV/static/css/main.70d3a844.chunk.css.map",
+    "static/css/4.d22640aa.chunk.css.map": "/My-React-CV/static/css/4.d22640aa.chunk.css.map",
+    "static/css/main.a56113f5.chunk.css.map": "/My-React-CV/static/css/main.a56113f5.chunk.css.map",
     "static/js/2.0c38b503.chunk.js.LICENSE.txt": "/My-React-CV/static/js/2.0c38b503.chunk.js.LICENSE.txt",
     "static/media/me.5f73af2d.JPG": "/My-React-CV/static/media/me.5f73af2d.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.66f40746.js",
+    "static/js/runtime-main.a892b747.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.0c38b503.chunk.js",
-    "static/css/main.70d3a844.chunk.css",
-    "static/js/main.0168fbb4.chunk.js"
+    "static/css/main.a56113f5.chunk.css",
+    "static/js/main.7da843ec.chunk.js"
   ]
 }

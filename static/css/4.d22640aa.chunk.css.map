@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/top/me.style.css"],"names":[],"mappings":"AAAA,4BACE,oBACE,2BACF,CACF","file":"4.d22640aa.chunk.css","sourcesContent":["@media (max-width: 575.98px) {\n  .title-query-center {\n    text-align: center !important;\n  }\n}\n"]}
